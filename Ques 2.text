@@ -1,0 +1,10 @@
+Qustion 2:
+
+1. Cheap priduct will be found at: item[3]
+
+2. Expensive product will at item[5]
+
+3. fullPrice will be: item[0].price + item[1].price + item[3].price +item[4].price + item[5].price 
+
+4. 
+fullPrice will be: item[0].price + item[1].price + item[3].price + item[4].price + item[5].price 
